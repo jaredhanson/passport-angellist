@@ -50,9 +50,14 @@ application:
         res.redirect('/');
       });
 
-#### Examples
+## Examples
 
 For a complete, working example, refer to the [login example](https://github.com/jaredhanson/passport-angellist/tree/master/examples/login).
+
+## Tests
+
+    $ npm install --dev
+    $ make test
 
 ## Credits
 
