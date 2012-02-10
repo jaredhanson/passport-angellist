@@ -1,7 +1,7 @@
 # Passport-AngelList
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
-with AngelList using the OAuth 2.0 API.
+with [AngelList](http://angel.co/) using the OAuth 2.0 API.
 
 ## Installation
 
@@ -58,6 +58,8 @@ For a complete, working example, refer to the [login example](https://github.com
 
     $ npm install --dev
     $ make test
+
+[![Build Status](https://secure.travis-ci.org/jaredhanson/passport-angellist.png)](http://travis-ci.org/jaredhanson/passport-angellist)
 
 ## Credits
 
