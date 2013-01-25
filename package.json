@@ -1,6 +1,6 @@
 {
   "name": "passport-angellist",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "AngelList authentication strategy for Passport.",
   "keywords": ["passport", "angellist", "auth", "authn", "authentication", "identity"],
   "repository": {
