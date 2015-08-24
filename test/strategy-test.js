@@ -1,7 +1,7 @@
 var vows = require('vows');
 var assert = require('assert');
 var util = require('util');
-var AngelListStrategy = require('passport-angellist/strategy');
+var AngelListStrategy = require('../lib/strategy');
 
 
 vows.describe('AngelListStrategy').addBatch({
