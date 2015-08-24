@@ -6,10 +6,4 @@ var angellist = require('..');
 
 vows.describe('passport-angellist').addBatch({
   
-  'module': {
-    'should report a version': function (x) {
-      assert.isString(angellist.version);
-    },
-  },
-  
 }).export(module);
